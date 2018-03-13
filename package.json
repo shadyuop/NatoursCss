@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "learning advanced css and sass ",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadyuop/NatoursCss.git"
+  },
+  "author": "Shady Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadyuop/NatoursCss/issues"
+  },
+  "homepage": "https://github.com/shadyuop/NatoursCss#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
